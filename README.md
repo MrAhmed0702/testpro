@@ -2,4 +2,4 @@
 
 #Editing the file
 
-My name is Ahmeed
+My name is Ahmed
